@@ -1,0 +1,6 @@
+@media only screen and (max-width:600px) {
+    .custom-img {
+        height: 70vh;
+        object-fit: cover;
+    }
+}
